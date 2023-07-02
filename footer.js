@@ -17,7 +17,7 @@ var footer = () => {
               <li>Term & Condition</li>
               <li>Privacy Policy</li>
               <li>Blog</li>
-            </ul>
+            </ul> ddd
             <ul class="footer1-0-div">
               <p class="footer1-0-title">CONNECT WITH US</p>
               <li>
